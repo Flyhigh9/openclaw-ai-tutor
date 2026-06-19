@@ -1,0 +1,9 @@
+[
+  {
+    "studentId": "S001",
+    "name": "Asha Sharma",
+    "email": "asha@example.com",
+    "telegramId": "@asha_student",
+    "courseIds": ["C001", "C002"]
+  }
+]
