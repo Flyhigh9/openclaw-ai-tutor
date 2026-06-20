@@ -1,0 +1,58 @@
+[
+  {
+    "studentId": "S101",
+    "courseId": "C102",
+    "completedAssignments": 2,
+    "totalAssignments": 2,
+    "progressPercentage": 100,
+    "riskLevel": "low"
+  },
+  {
+    "studentId": "S102",
+    "courseId": "C103",
+    "completedAssignments": 1,
+    "totalAssignments": 2,
+    "progressPercentage": 50,
+    "riskLevel": "medium"
+  },
+  {
+    "studentId": "S103",
+    "courseId": "C102",
+    "completedAssignments": 1,
+    "totalAssignments": 2,
+    "progressPercentage": 50,
+    "riskLevel": "medium"
+  },
+  {
+    "studentId": "S104",
+    "courseId": "C101",
+    "completedAssignments": 1,
+    "totalAssignments": 2,
+    "progressPercentage": 50,
+    "riskLevel": "high"
+  },
+  {
+    "studentId": "S105",
+    "courseId": "C102",
+    "completedAssignments": 1,
+    "totalAssignments": 2,
+    "progressPercentage": 50,
+    "riskLevel": "low"
+  },
+  {
+    "studentId": "S106",
+    "courseId": "C103",
+    "completedAssignments": 1,
+    "totalAssignments": 2,
+    "progressPercentage": 50,
+    "riskLevel": "medium"
+  },
+  {
+    "studentId": "S107",
+    "courseId": "C103",
+    "completedAssignments": 2,
+    "totalAssignments": 2,
+    "progressPercentage": 100,
+    "riskLevel": "low"
+  }
+]

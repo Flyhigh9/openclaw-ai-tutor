@@ -1,0 +1,20 @@
+[
+  {
+    "courseId": "C101",
+    "courseName": "Cloud Computing Fundamentals",
+    "teacher": "Dr. Helena Saarinen",
+    "credits": 5
+  },
+  {
+    "courseId": "C102",
+    "courseName": "Modern Web Development",
+    "teacher": "Prof. Daniel Cooper",
+    "credits": 5
+  },
+  {
+    "courseId": "C103",
+    "courseName": "Introduction to Data Analytics",
+    "teacher": "Dr. Sofia Lindberg",
+    "credits": 4
+  }
+]

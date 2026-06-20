@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*
+.openclaw/
+*.log
+
+auth-state.json
+credentials.json
+secrets.json

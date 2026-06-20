@@ -1,9 +1,51 @@
 [
   {
-    "studentId": "S001",
-    "name": "Asha Sharma",
-    "email": "asha@example.com",
-    "telegramId": "@asha_student",
-    "courseIds": ["C001", "C002"]
+    "studentId": "S101",
+    "name": "Emma Virtanen",
+    "email": "emma.virtanen@example.com",
+    "telegramId": "@emma_v",
+    "courseIds": ["C101", "C102"]
+  },
+  {
+    "studentId": "S102",
+    "name": "Liam Nguyen",
+    "email": "liam.nguyen@example.com",
+    "telegramId": "@liam_n",
+    "courseIds": ["C101", "C103"]
+  },
+  {
+    "studentId": "S103",
+    "name": "Sara Ahmed",
+    "email": "sara.ahmed@example.com",
+    "telegramId": "@sara_a",
+    "courseIds": ["C102", "C103"]
+  },
+  {
+    "studentId": "S104",
+    "name": "Noah Korhonen",
+    "email": "noah.korhonen@example.com",
+    "telegramId": "@noah_k",
+    "courseIds": ["C101"]
+  },
+  {
+    "studentId": "S105",
+    "name": "Mia Rodriguez",
+    "email": "mia.rodriguez@example.com",
+    "telegramId": "@mia_r",
+    "courseIds": ["C102"]
+  },
+  {
+    "studentId": "S106",
+    "name": "Aarav Patel",
+    "email": "aarav.patel@example.com",
+    "telegramId": "@aarav_p",
+    "courseIds": ["C103"]
+  },
+  {
+    "studentId": "S107",
+    "name": "Ella Nieminen",
+    "email": "ella.nieminen@example.com",
+    "telegramId": "@ella_n",
+    "courseIds": ["C101", "C102", "C103"]
   }
 ]

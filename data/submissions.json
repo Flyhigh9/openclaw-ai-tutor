@@ -1,0 +1,92 @@
+[
+  {
+    "submissionId": "SUB101",
+    "studentId": "S101",
+    "assignmentId": "A101",
+    "submittedAt": "2026-06-28",
+    "status": "submitted",
+    "points": 92,
+    "feedback": "Excellent configuration and documentation."
+  },
+  {
+    "submissionId": "SUB102",
+    "studentId": "S102",
+    "assignmentId": "A101",
+    "submittedAt": "2026-06-29",
+    "status": "submitted",
+    "points": 78,
+    "feedback": "Good work, but security settings need improvement."
+  },
+  {
+    "submissionId": "SUB103",
+    "studentId": "S103",
+    "assignmentId": "A103",
+    "submittedAt": "2026-07-04",
+    "status": "submitted",
+    "points": 88,
+    "feedback": "Well-designed interface with minor accessibility issues."
+  },
+  {
+    "submissionId": "SUB104",
+    "studentId": "S104",
+    "assignmentId": "A102",
+    "submittedAt": "2026-07-09",
+    "status": "submitted",
+    "points": 65,
+    "feedback": "Container works correctly but documentation is incomplete."
+  },
+  {
+    "submissionId": "SUB105",
+    "studentId": "S105",
+    "assignmentId": "A104",
+    "submittedAt": "2026-07-13",
+    "status": "submitted",
+    "points": 95,
+    "feedback": "Excellent API integration and error handling."
+  },
+  {
+    "submissionId": "SUB106",
+    "studentId": "S106",
+    "assignmentId": "A105",
+    "submittedAt": "2026-07-07",
+    "status": "submitted",
+    "points": 84,
+    "feedback": "Strong analysis with clear visualizations."
+  },
+  {
+    "submissionId": "SUB107",
+    "studentId": "S107",
+    "assignmentId": "A103",
+    "submittedAt": "2026-07-03",
+    "status": "submitted",
+    "points": 91,
+    "feedback": "Responsive design implemented effectively."
+  },
+  {
+    "submissionId": "SUB108",
+    "studentId": "S101",
+    "assignmentId": "A104",
+    "submittedAt": "2026-07-14",
+    "status": "submitted",
+    "points": 87,
+    "feedback": "Good use of APIs and asynchronous operations."
+  },
+  {
+    "submissionId": "SUB109",
+    "studentId": "S102",
+    "assignmentId": "A106",
+    "submittedAt": "2026-07-18",
+    "status": "late",
+    "points": 72,
+    "feedback": "Analysis is correct, but the submission was late."
+  },
+  {
+    "submissionId": "SUB110",
+    "studentId": "S107",
+    "assignmentId": "A105",
+    "submittedAt": "2026-07-08",
+    "status": "submitted",
+    "points": 97,
+    "feedback": "Outstanding insights and presentation."
+  }
+]

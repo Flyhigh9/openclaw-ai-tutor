@@ -1,0 +1,50 @@
+[
+  {
+    "assignmentId": "A101",
+    "courseId": "C101",
+    "title": "Virtual Machine Setup",
+    "description": "Deploy and configure a virtual machine.",
+    "deadline": "2026-06-30",
+    "maxPoints": 100
+  },
+  {
+    "assignmentId": "A102",
+    "courseId": "C101",
+    "title": "Container Basics",
+    "description": "Create and run a Docker container.",
+    "deadline": "2026-07-10",
+    "maxPoints": 100
+  },
+  {
+    "assignmentId": "A103",
+    "courseId": "C102",
+    "title": "Responsive Portfolio Website",
+    "description": "Build a responsive personal portfolio.",
+    "deadline": "2026-07-05",
+    "maxPoints": 100
+  },
+  {
+    "assignmentId": "A104",
+    "courseId": "C102",
+    "title": "REST API Integration",
+    "description": "Consume a public API using JavaScript.",
+    "deadline": "2026-07-15",
+    "maxPoints": 100
+  },
+  {
+    "assignmentId": "A105",
+    "courseId": "C103",
+    "title": "Data Visualization Report",
+    "description": "Create charts and analyze a dataset.",
+    "deadline": "2026-07-08",
+    "maxPoints": 100
+  },
+  {
+    "assignmentId": "A106",
+    "courseId": "C103",
+    "title": "Predictive Analysis Exercise",
+    "description": "Build a simple prediction model.",
+    "deadline": "2026-07-20",
+    "maxPoints": 100
+  }
+]
