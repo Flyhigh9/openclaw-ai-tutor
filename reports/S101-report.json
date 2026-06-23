@@ -1,0 +1,52 @@
+{
+  "student": {
+    "studentId": "S101",
+    "name": "Emma Virtanen",
+    "email": "emma.virtanen@example.com",
+    "telegramId": "@emma_v",
+    "courseIds": [
+      "C101",
+      "C102"
+    ]
+  },
+  "progress": [
+    {
+      "studentId": "S101",
+      "courseId": "C102",
+      "completedAssignments": 2,
+      "totalAssignments": 2,
+      "progressPercentage": 100,
+      "riskLevel": "low"
+    }
+  ],
+  "submissions": [
+    {
+      "submissionId": "SUB101",
+      "studentId": "S101",
+      "assignmentId": "A101",
+      "submittedAt": "2026-06-28",
+      "status": "submitted",
+      "points": 92,
+      "feedback": "Excellent configuration and documentation."
+    },
+    {
+      "submissionId": "SUB108",
+      "studentId": "S101",
+      "assignmentId": "A104",
+      "submittedAt": "2026-07-14",
+      "status": "submitted",
+      "points": 87,
+      "feedback": "Good use of APIs and asynchronous operations."
+    }
+  ],
+  "summary": {
+    "totalSubmissions": 2,
+    "averageScore": 90,
+    "riskLevels": [
+      "low"
+    ]
+  },
+  "aiTutorInput": {
+    "task": "Analyze this student progress and generate feedback, risk assessment, and recommendations."
+  }
+}
