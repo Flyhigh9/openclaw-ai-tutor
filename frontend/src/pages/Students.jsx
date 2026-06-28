@@ -11,13 +11,29 @@ function Students() {
   }, []);
 
   return (
-    <section className="card">
+    <section className="card" id="students">
       <h2>Students</h2>
-      {students.map((student) => (
-        <p key={student.studentId}>
-          {student.studentId} - {student.name}
-        </p>
-      ))}
+
+      <table>
+        <thead>
+          <tr>
+            <th>Student ID</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Courses</th>
+          </tr>
+        </thead>
+        <tbody>
+          {students.map((student) => (
+            <tr key={student.studentId}>
+              <td>{student.studentId}</td>
+              <td>{student.name}</td>
+              <td>{student.email}</td>
+              <td>{student.courseIds?.join(", ")}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
     </section>
   );
 }

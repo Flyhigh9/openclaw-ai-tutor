@@ -11,8 +11,8 @@ function Assignments() {
   }, []);
 
   return (
-    <section className="card">
-      <h2>Assignments</h2>
+    <section className="card" id="assignments">
+  <h2>📝 Assignments</h2>
       {assignments.map((assignment) => (
         <p key={assignment.assignmentId}>
           {assignment.assignmentId} - {assignment.title} | Deadline: {assignment.deadline}

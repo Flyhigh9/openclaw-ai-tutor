@@ -9,9 +9,24 @@ import "./App.css";
 function App() {
   return (
     <div className="app">
+      <nav className="navbar">
+        <h2>🤖 OpenClaw Tutor</h2>
+        <div>
+          <a href="#students">Students</a>
+          <a href="#courses">Courses</a>
+          <a href="#assignments">Assignments</a>
+          <a href="#progress">Progress</a>
+          <a href="#reports">Reports</a>
+        </div>
+      </nav>
+
       <Dashboard />
-      <Students />
-      <Courses />
+
+      <div className="grid">
+        <Students />
+        <Courses />
+      </div>
+
       <Assignments />
       <Progress />
       <TeacherReports />

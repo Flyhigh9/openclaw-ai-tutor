@@ -11,13 +11,42 @@ function Progress() {
   }, []);
 
   return (
-    <section className="card">
-      <h2>Progress</h2>
-      {progress.map((item, index) => (
-        <p key={index}>
-          {item.studentId} | {item.courseId} | {item.progressPercentage}% | Risk: {item.riskLevel}
-        </p>
-      ))}
+    <section className="card" id="progress">
+      <h2>📈 Progress</h2>
+
+      <table>
+        <thead>
+          <tr>
+            <th>Student ID</th>
+            <th>Course ID</th>
+            <th>Progress</th>
+            <th>Risk Level</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          {progress.map((item, index) => (
+            <tr key={index}>
+              <td>{item.studentId}</td>
+              <td>{item.courseId}</td>
+              <td>
+                <div className="progress-bar">
+                  <div
+                    className="progress-fill"
+                    style={{ width: `${item.progressPercentage}%` }}
+                  ></div>
+                </div>
+                <small>{item.progressPercentage}%</small>
+              </td>
+              <td>
+                <span className={`badge ${item.riskLevel}`}>
+                  {item.riskLevel}
+                </span>
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
     </section>
   );
 }

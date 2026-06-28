@@ -11,8 +11,8 @@ function Courses() {
   }, []);
 
   return (
-    <section className="card">
-      <h2>Courses</h2>
+    <section className="card" id="courses">
+  <h2>📚 Courses</h2>
       {courses.map((course) => (
         <p key={course.courseId}>
           {course.courseId} - {course.courseName}

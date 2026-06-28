@@ -1,8 +1,13 @@
 function Dashboard() {
   return (
-    <section className="card">
-      <h1>OpenClaw AI Tutor Dashboard</h1>
-      <p>Frontend dashboard for students, courses, assignments, progress, and teacher reports.</p>
+    <section className="hero">
+      <div>
+        <h1>🎓 OpenClaw AI Tutor Dashboard</h1>
+        <p>
+          A smart learning dashboard for tracking students, courses,
+          assignments, progress, and AI tutor reports.
+        </p>
+      </div>
     </section>
   );
 }
