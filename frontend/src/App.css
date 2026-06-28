@@ -1,0 +1,23 @@
+.app {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 30px;
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  background: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+h1,
+h2 {
+  color: #1f2937;
+}
+
+p {
+  color: #374151;
+}
