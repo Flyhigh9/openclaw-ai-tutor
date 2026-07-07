@@ -1,0 +1,43 @@
+{
+  "student": {
+    "studentId": "S103",
+    "name": "Sara Ahmed",
+    "email": "sara.ahmed@example.com",
+    "telegramId": "@sara_a",
+    "courseIds": [
+      "C102",
+      "C103"
+    ]
+  },
+  "progress": [
+    {
+      "studentId": "S103",
+      "courseId": "C102",
+      "completedAssignments": 1,
+      "totalAssignments": 2,
+      "progressPercentage": 50,
+      "riskLevel": "medium"
+    }
+  ],
+  "submissions": [
+    {
+      "submissionId": "SUB103",
+      "studentId": "S103",
+      "assignmentId": "A103",
+      "submittedAt": "2026-07-04",
+      "status": "submitted",
+      "points": 88,
+      "feedback": "Well-designed interface with minor accessibility issues."
+    }
+  ],
+  "summary": {
+    "totalSubmissions": 1,
+    "averageScore": 88,
+    "riskLevels": [
+      "medium"
+    ]
+  },
+  "aiTutorInput": {
+    "task": "Analyze this student progress and generate feedback, risk assessment, and recommendations."
+  }
+}

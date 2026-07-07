@@ -1,0 +1,52 @@
+{
+  "student": {
+    "studentId": "S102",
+    "name": "Liam Nguyen",
+    "email": "liam.nguyen@example.com",
+    "telegramId": "@liam_n",
+    "courseIds": [
+      "C101",
+      "C103"
+    ]
+  },
+  "progress": [
+    {
+      "studentId": "S102",
+      "courseId": "C103",
+      "completedAssignments": 1,
+      "totalAssignments": 2,
+      "progressPercentage": 50,
+      "riskLevel": "medium"
+    }
+  ],
+  "submissions": [
+    {
+      "submissionId": "SUB102",
+      "studentId": "S102",
+      "assignmentId": "A101",
+      "submittedAt": "2026-06-29",
+      "status": "submitted",
+      "points": 78,
+      "feedback": "Good work, but security settings need improvement."
+    },
+    {
+      "submissionId": "SUB109",
+      "studentId": "S102",
+      "assignmentId": "A106",
+      "submittedAt": "2026-07-18",
+      "status": "late",
+      "points": 72,
+      "feedback": "Analysis is correct, but the submission was late."
+    }
+  ],
+  "summary": {
+    "totalSubmissions": 2,
+    "averageScore": 75,
+    "riskLevels": [
+      "medium"
+    ]
+  },
+  "aiTutorInput": {
+    "task": "Analyze this student progress and generate feedback, risk assessment, and recommendations."
+  }
+}
