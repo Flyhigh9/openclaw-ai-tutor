@@ -79,6 +79,35 @@ app.get("/students/:studentId/progress", (req, res) => {
   res.json(fullReport);
 });
 
+app.get("/reports/:studentId/:type", (req, res) => {
+  const { studentId, type } = req.params;
+
+  const allowedTypes = [
+    "feedback",
+    "teacher-report",
+    "assignment-summary",
+    "learning-recommendation",
+  ];
+
+  if (!allowedTypes.includes(type)) {
+    return res.status(400).json({ error: "Invalid report type" });
+  }
+
+  const reportPath = path.join(__dirname, "..", "reports", `${studentId}-${type}.md`);
+
+  if (!fs.existsSync(reportPath)) {
+    return res.status(404).json({ error: "Report not found" });
+  }
+
+  const reportContent = fs.readFileSync(reportPath, "utf8");
+
+  res.json({
+    studentId,
+    type,
+    content: reportContent,
+  });
+});
+
 app.listen(PORT, () => {
   console.log(`AI Tutor backend running at http://localhost:${PORT}`);
 });

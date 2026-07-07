@@ -1,155 +1,32 @@
-* {
-  box-sizing: border-box;
-}
-
-body {
-  margin: 0;
-  background: #f8fafc;
-  font-family: Arial, sans-serif;
-  color: #1f2937;
-}
-
-.app {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 24px;
-}
-
-.navbar {
-  background: #1e3a8a;
-  color: white;
-  padding: 18px 24px;
-  border-radius: 16px;
+.report-controls {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 24px;
+  gap: 12px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
 }
 
-.navbar h2 {
-  margin: 0;
-  color: white;
+.report-controls select,
+.report-controls button {
+  padding: 10px 14px;
+  border-radius: 10px;
+  border: 1px solid #d1d5db;
 }
 
-.navbar a {
-  color: white;
-  text-decoration: none;
-  margin-left: 16px;
-  font-weight: bold;
-}
-
-.navbar a:hover {
-  text-decoration: underline;
-}
-
-.hero {
-  background: linear-gradient(135deg, #2563eb, #7c3aed);
-  color: white;
-  padding: 40px;
-  border-radius: 20px;
-  margin-bottom: 24px;
-}
-
-.hero h1 {
-  color: white;
-  font-size: 36px;
-  margin-bottom: 10px;
-}
-
-.hero p {
-  color: #e0e7ff;
-  font-size: 18px;
-}
-
-.grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 24px;
-}
-
-.card {
-  background: white;
-  border-radius: 18px;
-  padding: 24px;
-  margin-bottom: 24px;
-  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
-  border: 1px solid #e5e7eb;
-}
-
-.card h2 {
-  margin-top: 0;
-  color: #1e3a8a;
-}
-
-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin-top: 16px;
-  overflow: hidden;
-}
-
-th {
-  background: #eff6ff;
-  color: #1e3a8a;
-  text-align: left;
-}
-
-th,
-td {
-  padding: 12px;
-  border-bottom: 1px solid #e5e7eb;
-}
-
-tr:hover {
-  background: #f1f5f9;
-}
-
-.badge {
-  padding: 6px 10px;
-  border-radius: 999px;
-  font-weight: bold;
-  font-size: 13px;
-}
-
-.low {
-  background: #dcfce7;
-  color: #166534;
-}
-
-.medium {
-  background: #fef3c7;
-  color: #92400e;
-}
-
-.high {
-  background: #fee2e2;
-  color: #991b1b;
-}
-
-.progress-bar {
-  background: #e5e7eb;
-  border-radius: 999px;
-  height: 10px;
-  overflow: hidden;
-}
-
-.progress-fill {
+.report-controls button {
   background: #2563eb;
-  height: 100%;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
 }
 
-@media (max-width: 800px) {
-  .grid {
-    grid-template-columns: 1fr;
-  }
+.report-controls button:hover {
+  background: #1d4ed8;
+}
 
-  .navbar {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-
-  .navbar a {
-    display: inline-block;
-    margin: 8px 8px 0 0;
-  }
+.report-box {
+  background: #f8fafc;
+  padding: 18px;
+  border-radius: 12px;
+  white-space: pre-wrap;
+  border: 1px solid #e5e7eb;
 }
