@@ -1,0 +1,11 @@
+🌟 Weekly Learning Update
+
+Hello {{studentName}},
+
+You completed {{completedAssignments}} out of {{totalAssignments}} assignments.
+
+Your current progress is {{progressPercentage}}%.
+
+Keep working consistently. Small improvements every week lead to strong results.
+
+– OpenClaw AI Tutor

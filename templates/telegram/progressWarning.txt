@@ -1,0 +1,12 @@
+⚠️ Progress Notice
+
+Hello {{studentName}},
+
+Your current progress in {{courseName}} is {{progressPercentage}}%.
+
+Risk level: {{riskLevel}}
+
+Recommended action:
+{{recommendation}}
+
+– OpenClaw AI Tutor

@@ -1,0 +1,13 @@
+📝 Assignment Reminder
+
+Hello {{studentName}},
+
+You have an upcoming assignment:
+
+Assignment: {{assignmentTitle}}
+Deadline: {{deadline}}
+Course: {{courseName}}
+
+Please complete and submit it before the deadline.
+
+– OpenClaw AI Tutor
