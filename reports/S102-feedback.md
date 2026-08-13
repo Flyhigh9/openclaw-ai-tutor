@@ -1,7 +1,5 @@
-Hi Liam,
+Hi Liam, it's great to review your progress in Course C103! You've shown a good start, successfully completing one of your two assignments with a solid average score of 75%. This demonstrates your capability and understanding of the material.
 
-It's great to see your progress in Course C103 so far! You've made a solid start by completing 50% of your assignments, demonstrating good analytical skills, particularly in your submission for A106 where your analysis was spot on. Your average score of 75 across submissions shows a strong understanding of the core concepts, which is a fantastic foundation.
+A key strength evident in your work, particularly in Assignment A106, is your strong analytical skills, which are fundamental for success. However, there are a couple of areas where we can focus on improvement. For Assignment A101, refining security settings is important. Additionally, ensuring timely submissions, as noted with A106, will help you maintain momentum and avoid deductions.
 
-To further enhance your learning journey, let's focus on a couple of key areas. From the feedback on assignment A101, improving your understanding of security settings would be beneficial. Additionally, ensuring timely submission, as noted with A106, will help you manage your workload more effectively and avoid potential point deductions.
-
-Your next steps should involve reviewing the course materials related to security settings to strengthen that specific area. I also encourage you to prioritize completing the remaining assignment for C103 to maintain your momentum and keep your progress on track. Keep up the excellent work; with a little focus on these areas, you'll continue to excel!
+Given your current medium risk level and one outstanding assignment, prioritizing its completion is your next crucial step. I recommend revisiting the module on security best practices to address the feedback on A101. Let's aim to tackle that remaining assignment soon! Please don't hesitate to reach out if you need any support or clarification.

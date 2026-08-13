@@ -1,26 +1,30 @@
+**Assignment Summary for Liam Nguyen**
+
 Hi Liam,
 
 Here's a summary of your assignment performance so far:
 
 **Completed Assignments:**
 You have successfully completed **2 assignments**:
-*   **Assignment A101:** You scored **78 points**. The feedback noted, "Good work, but security settings need improvement."
-*   **Assignment A106:** You scored **72 points**. This assignment was submitted late, and the feedback stated, "Analysis is correct, but the submission was late."
+*   Assignment A101 (Score: 78 points)
+*   Assignment A106 (Score: 72 points)
 
 **Missing Assignments:**
-For one of your courses (C103), you have completed 1 out of 2 assignments. This means **1 assignment is still outstanding** for that specific course.
+In Course C103, you have **1 assignment remaining** out of 2 total. Please check your course platform for details on the outstanding assignment.
 
 **Average Score:**
-Your current average score across all submitted assignments is **75%**.
+Your current average score across your submitted assignments is **75 points**.
 
 **Performance Trends:**
-You've shown a good understanding in your work. Your score on Assignment A101 was 78 points, followed by 72 points for Assignment A106. This slight decrease in score for A106 was partly due to the late submission. Your overall academic risk level is currently assessed as "medium."
+*   Your scores for completed assignments are solid, ranging from 72 to 78 points.
+*   There was a slight decrease in score between Assignment A101 (78 points) and Assignment A106 (72 points).
+*   One of your submissions (Assignment A106) was submitted late, which was noted in the feedback.
+*   Feedback for Assignment A101 highlighted that your security settings need improvement.
 
 **Suggestions for Improvement:**
-To help you boost your performance and stay on track, consider the following:
-1.  **Address Specific Feedback:** Pay close attention to the feedback on your assignments, especially for A101 regarding "security settings." Understanding and applying these improvements will strengthen your future work.
-2.  **Time Management:** Aim to submit all your assignments on time. Late submissions, as seen with A106, can impact your scores and overall progress. Planning your time effectively can help prevent this.
-3.  **Proactive Engagement:** For the outstanding assignment in C103, don't hesitate to reach out to your instructor or use available course resources if you're facing any difficulties.
-4.  **Review and Learn:** Regularly review course material related to areas where feedback was given to deepen your understanding.
+To help you continue doing well and improve further:
+1.  **Address Specific Feedback:** Pay close attention to the detailed feedback provided on your assignments. For instance, reviewing and improving your understanding of security settings (as noted in A101) will be beneficial for future tasks.
+2.  **Time Management:** Prioritize submitting assignments on time to ensure you receive full credit and manage your workload effectively. If you're struggling with deadlines, reach out for support.
+3.  **Consistency:** Aim to maintain and consistently achieve high scores. Reviewing course materials or seeking clarification on challenging topics can help solidify your understanding.
 
-Keep up the good work, Liam, and remember that we're here to support you!
+Overall, you're making good progress, Liam! Keep up the effort, and remember to use the feedback to strengthen your skills.
