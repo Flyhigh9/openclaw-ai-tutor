@@ -35,7 +35,6 @@ Usage:
   node scripts/aiTutor.js auto-remind <studentId>
   node scripts/aiTutor.js all <studentId>
   node scripts/aiTutor.js coach <studentId>
-  node scripts/aiTutor.js coach-send <studentId>
   node scripts/aiTutor.js monitor
   node scripts/aiTutor.js teacher-summary
   node scripts/aiTutor.js teacher-summary-send
