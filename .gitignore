@@ -8,3 +8,10 @@ node_modules/
 auth-state.json
 credentials.json
 secrets.json
+
+data/notificationHistory.json
+data/progressHistory.json
+
+reports/*-learning-coach.md
+reports/teacher-daily-summary.md
+reports/teacher-weekly-summary.md
