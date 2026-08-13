@@ -3,6 +3,7 @@ node_modules/
 .env.*
 .openclaw/
 *.log
+!.env.example
 
 auth-state.json
 credentials.json
